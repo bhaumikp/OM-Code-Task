@@ -6,7 +6,7 @@ We have 2 functions implemented
 1.  simplifyCheck() is the fucntion for checking, verifying  and simplifying input. If the input is not according to the desire format an error msg is send and the program is stopped. 
 If the input is according to desired format the string is simplified such that it would be helpful in later next fucntion for calculations.
 
-2. coinCalculation2 is fucntion for solving the main problem of the to get the minimum number of coins equivalent to the amount. After the calculation is done, the function returns an array which consists number of coins for each denominations. This array is later used to represent the output in the terminal.  
+2. coinCalculation2() is fucntion for solving the main problem of the to get the minimum number of coins equivalent to the amount. After the calculation is done, the function returns an array which consists number of coins for each denominations. This array is later used to represent the output in the terminal.  
 
 
 References :
